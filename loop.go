@@ -3,8 +3,8 @@ package gosocketio
 import (
 	"encoding/json"
 	"errors"
-	"github.com/graarh/golang-socketio/protocol"
-	"github.com/graarh/golang-socketio/transport"
+	"github.com/v-rumak/golang-socketio/tree/master/protocol"
+	"github.com/v-rumak/golang-socketio/tree/master/transport"
 	"net/http"
 	"sync"
 	"time"
