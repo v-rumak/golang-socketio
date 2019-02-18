@@ -2,7 +2,7 @@ package gosocketio
 
 import (
 	"encoding/json"
-	"github.com/v-rumak/golang-socketio/tree/master/protocol"
+	"github.com/v-rumak/golang-socketio/protocol"
 	"sync"
 	"reflect"
 )
